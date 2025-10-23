@@ -1,0 +1,37 @@
+# =================
+# Java / Spring Boot (in /backend/ folder)
+# =================
+backend/target/
+backend/*.log
+# Ignore secret property files
+backend/src/main/resources/application.properties
+
+# =================
+# Node / React (in /frontend/ folder)
+# =================
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# =================
+# General Logs & OS Files
+# =================
+*.log
+.DS_Store
+Thumbs.db
+
+# =================
+# IDE Folders
+# =================
+.vscode/
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
