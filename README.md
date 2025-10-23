@@ -234,12 +234,5 @@ npm run build
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License.
 
-## Contact
-
-For questions or support, please contact:
-- GitHub: [citu-ericrevilleza](https://github.com/citu-ericrevilleza)
-- Email: citu.ericrevilleza@gmail.com
